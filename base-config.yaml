@@ -1,0 +1,16 @@
+# Specify a location to use when just !wx is used
+default_location: 
+
+# Default units to use.
+# Not used
+default_units:
+
+# The default language to use
+default_language: 
+
+# Show a link to the weather.gov page
+show_link: false
+
+# Display an image of the forecast
+show_image: false
+

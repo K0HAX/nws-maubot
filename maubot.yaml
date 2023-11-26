@@ -1,0 +1,10 @@
+maubot: 0.1.0
+id: com.k0hax.nws
+version: 0.0.1
+license: GPL3
+modules:
+  - weather
+main_class: NwsBot
+extra_files:
+  - base-config.yaml
+
